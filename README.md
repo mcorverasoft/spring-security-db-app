@@ -7,7 +7,7 @@ This application contains an implementation of Auditing and an implementation of
 1. **Clone the application**
 
 	```bash
-	git clone
+	git clone https://github.com/mcorverasoft/spring-security-db-app.git
 	cd spring-security-db-app
 	```
 

@@ -12,8 +12,8 @@
 	<groupId>com.mcorvera</groupId>
 	<artifactId>spring-security-db-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chambre-app</name>
-	<description>Demo project for Spring Boot</description>
+	<name>spring-security-db-app</name>
+	<description>Building a simple app whit basic security connecting to Database (MySQL in this case) using Spring Boot, Spring Security, and REST Service</description>
 
 	<properties>
 		<java.version>1.8</java.version>
